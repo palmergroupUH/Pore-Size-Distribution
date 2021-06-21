@@ -1,0 +1,12 @@
+Monomer and probe particle diameter
+0.2 0.0
+Unit cell size for linked list
+0.5
+Maximum number of points in a frame
+10000
+Frame-interval to compute pore size
+10
+DCD filename for monomers trajectory
+'test.dat'
+Output filename for pore size calculations
+'output.dat'
